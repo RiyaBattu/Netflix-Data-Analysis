@@ -13,3 +13,8 @@ The purpose of this project is to conduct an in-depth analysis of Netflix data t
    
 This project leverages data visualization and statistical analysis techniques to provide a comprehensive understanding of Netflix's content consumption landscape.
 
+## Dataset
+The dataset for this project is sourced from kaggle 
+- **Dataset Link:** https://www.kaggle.com/datasets/utkarshx27/movies-dataset
+
+
