@@ -1,6 +1,6 @@
 # Netflix Data Analysis
+<image src = "https://github.com/RiyaBattu/Netflix-Data-Analysis/blob/main/lgoogg.jpg">
 
-![] (https://github.com/RiyaBattu/Netflix-Data-Analysis/blob/main/netflix%20log.jpg)
 
 ## Objectives of the Project:
 The purpose of this project is to conduct an in-depth analysis of Netflix data to uncover insights into viewing patterns, popular content, and user preferences. This analysis aims to:
